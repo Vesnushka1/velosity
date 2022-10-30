@@ -70,7 +70,7 @@ h3 {
 .section--1__content__title {
     text-transform: uppercase;
     color: white;
-    font-size: 6vw;
+    font-size: 50px;
     font-weight: 400;
     font-style: normal;
 }
@@ -80,8 +80,8 @@ h3 {
 }
 
 .buttons--row__learn--more {
-    width: 9rem;
-    height: 2.5rem;
+    width: 150px;
+    height: 40px;
     background: transparent;
     border: 0;
     outline: 1px solid white;
@@ -91,18 +91,18 @@ h3 {
     border-radius: 5px;
     letter-spacing: 2px;
     margin-left: 1rem;
-    font-size: 1rem;
+    font-size: 16px;
 }
 
 .buttons--row__sign--up {
     border: 0;
-    width: 8rem;
+    width: 130px;
+    height: 40px;
     border-radius: 5px;
     letter-spacing: 2px;
     margin-right: 1rem;
     color: white;
-    font-size: 1rem;
-    height: 2.5rem;
+    font-size: 16px;
     text-transform: uppercase;
     background: #69B9FF;
 }

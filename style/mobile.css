@@ -2,6 +2,19 @@
     body {
         box-sizing: border-box;
     }
+    .buttons--row__learn--more{
+        width: 120px;
+        height: 30px;
+        font-size: 0.7rem;
+    }
+    .buttons--row__sign--up{
+        width: 100px;
+        height: 30px;
+        font-size: 10px;
+    }
+    .section--1__content__title {
+        font-size: 2.5rem;
+    }
 
     .section--2__content {
         display: flex;
